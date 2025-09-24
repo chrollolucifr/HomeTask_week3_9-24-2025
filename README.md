@@ -54,7 +54,7 @@ The project contains the following interactive visualizations using **Plotly**:
 ---
 
 ## 🛠 Tools & Libraries
-- **Python 3.x**  
+- **Python**  
 - **Pandas** – Data manipulation  
 - **Plotly Express** – Interactive visualizations  
 - **NumPy** – Numerical operations  
