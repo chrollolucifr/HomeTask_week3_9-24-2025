@@ -65,6 +65,6 @@ The project contains the following interactive visualizations using **Plotly**:
 1. Clone the repository:
 ```bash
 git clone https://github.com/chrollolucifr/HomeTask_week3_9-24-2025.git
+```bash
 2. Install required libraries:
 pip install pandas numpy plotly
-3. 
